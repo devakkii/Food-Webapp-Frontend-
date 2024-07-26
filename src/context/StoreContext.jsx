@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export const StoreContext = createContext(null)
 
-const url = "http://localhost:4000"
+const url = "https://food-webapp-backend-4uph.onrender.com"
 
 
 
